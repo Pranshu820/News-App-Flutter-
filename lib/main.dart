@@ -4,6 +4,8 @@ import 'package:news_articles/services/api_service.dart';
 
 import 'model/article_model.dart';
 
+// updated
+
 void main() {
   runApp(const MyApp());
 }
